@@ -50,7 +50,7 @@ public class BudgetController {
         return found;
     }
 
-    @RequestMapping(value = "/budget", method = RequestMethod.GET)
+    @RequestMapping(value = "/budgets", method = RequestMethod.GET)
     public List<Budget> list(){
         List all = null;
         try{

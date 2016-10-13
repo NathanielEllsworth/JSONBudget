@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "description": "Wendy's",
+    "category": "Lunch",
+    "budgetAmount": 5,
+    "actualAmount": 6
+  },
+  {
+    "id": 2,
+    "description": "Goodbye",
+    "category": "Hello",
+    "budgetAmount": 456,
+    "actualAmount": 123
+  },
+  {
+    "id": 3,
+    "description": "Goodbye",
+    "category": "Hello",
+    "budgetAmount": 456,
+    "actualAmount": 123
+  },
+  {
+    "id": 6,
+    "description": "starbucks",
+    "category": "coffee",
+    "budgetAmount": 6,
+    "actualAmount": 16
+  },
+  {
+    "id": 7,
+    "description": "starbucks",
+    "category": "coffee",
+    "budgetAmount": 232,
+    "actualAmount": 4334
+  },
+  {
+    "id": 8,
+    "description": "starbucks",
+    "category": "coffee",
+    "budgetAmount": 232,
+    "actualAmount": 4334
+  },
+  {
+    "id": 9,
+    "description": "Skipper",
+    "category": "Teacher",
+    "budgetAmount": 456,
+    "actualAmount": 123
+  }
+]
